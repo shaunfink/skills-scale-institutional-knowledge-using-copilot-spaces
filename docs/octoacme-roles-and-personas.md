@@ -75,6 +75,40 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA/Testing Engineers
+
+### Role Summary
+QA/Testing Engineers ensure software quality by designing and executing test strategies, validating acceptance criteria, and identifying defects before release. They advocate for quality throughout the development lifecycle.
+
+### Responsibilities
+- Design and execute test plans and test cases
+- Perform functional, integration, and regression testing
+- Validate acceptance criteria and user stories
+- Report and track defects with clear reproduction steps
+- Collaborate with developers on testability and bug fixes
+- Maintain test automation frameworks and scripts
+- Participate in requirements review to identify testability issues
+
+### Goals
+- Ensure high-quality releases with minimal defects
+- Catch issues early in the development cycle
+- Improve test coverage and automation
+- Reduce manual testing effort through automation
+
+### Typical Communication
+- Test status reports and quality metrics
+- Bug reports and regression test results
+- Test case documentation and coverage reports
+- Quality gate sign-offs
+
+### Interactions with Other Roles
+- **Developers**: Collaborate on bug fixes, provide reproduction steps, review testability
+- **Product Manager**: Clarify acceptance criteria, validate feature behavior
+- **Release Manager**: Sign off on quality gates, provide go/no-go recommendations
+- **UX Designer**: Validate user flows and accessibility requirements
+
+---
+
 ## Scrum Masters
 
 ### Role Summary

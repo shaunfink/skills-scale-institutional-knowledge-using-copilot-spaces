@@ -15,6 +15,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+- Handoff workflows:
+  - Follow [Handoff Checklists](octoacme-handoff-checklists.md) for UX-to-Dev, Dev-to-QA, and QA-to-Release transitions
+  - Ensure design specifications and acceptance criteria are clear before work begins
+  - Conduct handoff sessions to align on expectations and testing approach
 
 ## Quality & Testing
 - Unit tests for new logic

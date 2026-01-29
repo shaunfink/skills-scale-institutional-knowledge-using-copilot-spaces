@@ -75,7 +75,136 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Masters
+
+### Role Summary
+Scrum Masters facilitate the agile development process, remove impediments, and help the team continuously improve. They ensure the team follows Scrum practices and maintains sustainable delivery velocity.
+
+### Responsibilities
+- Facilitate sprint ceremonies (planning, standups, reviews, retrospectives)
+- Remove blockers and impediments for the team
+- Coach team members on agile practices and self-organization
+- Shield the team from external distractions and interruptions
+- Track and communicate team velocity and capacity
+- Help maintain healthy team dynamics and psychological safety
+
+### Goals
+- Maximize team productivity and sustainable pace
+- Foster continuous improvement and team maturity
+- Ensure adherence to agreed-upon processes while remaining adaptive
+
+### Typical Communication
+- Daily facilitation of standups
+- Sprint ceremony agendas and outcomes
+- Impediment tracking and escalation
+- Team health and velocity metrics
+
+### Interactions with Other Roles
+- **Developers**: Remove blockers, facilitate collaboration, coach on agile practices
+- **Product Manager**: Help prioritize backlog, clarify requirements, negotiate scope
+- **Project Manager**: Align on schedules, coordinate cross-team dependencies
+- **UX Designer**: Ensure design work is integrated into sprint planning
+
+---
+
+## UX Designers
+
+### Role Summary
+UX Designers create user-centered designs that balance user needs, business goals, and technical feasibility. They conduct research, create prototypes, and validate designs through user testing.
+
+### Responsibilities
+- Conduct user research and usability testing
+- Create wireframes, mockups, and interactive prototypes
+- Define user flows and information architecture
+- Collaborate with developers on design implementation
+- Maintain design systems and component libraries
+- Validate designs through user feedback and analytics
+
+### Goals
+- Deliver intuitive, accessible user experiences
+- Reduce friction in user workflows and increase adoption
+- Maintain design consistency across products
+
+### Typical Communication
+- Design reviews and critiques
+- User research findings and recommendations
+- Prototype walkthroughs and specs
+- Usability test reports
+
+### Interactions with Other Roles
+- **Developers**: Provide detailed specs, review implementations, clarify design intent
+- **Product Manager**: Validate user needs, align on feature priorities, inform roadmap
+- **QA/Testing**: Define acceptance criteria for UX, validate user flows
+- **Customer Support Lead**: Gather user feedback, address usability issues
+
+---
+
+## Release Managers
+
+### Role Summary
+Release Managers coordinate and execute software releases to ensure smooth, low-risk deployments. They orchestrate release activities, manage release schedules, and maintain deployment documentation.
+
+### Responsibilities
+- Plan and schedule releases across environments
+- Coordinate release activities with engineering and operations
+- Maintain release documentation and runbooks
+- Monitor deployments and coordinate rollback if needed
+- Ensure compliance with release policies and approval gates
+- Track and communicate release status to stakeholders
+
+### Goals
+- Deliver reliable, predictable releases with minimal downtime
+- Reduce deployment risks through automation and testing
+- Maintain clear visibility into release schedules and status
+
+### Typical Communication
+- Release calendars and deployment schedules
+- Go/no-go decision meetings
+- Release notes and deployment announcements
+- Post-deployment status reports
+
+### Interactions with Other Roles
+- **Developers**: Coordinate code freeze, validate release readiness, manage hotfixes
+- **QA/Testing**: Verify test completion, sign off on quality gates
+- **Project Manager**: Align release dates with project timelines
+- **Customer Support Lead**: Communicate release timing, document customer-facing changes
+
+---
+
+## Customer Support Leads
+
+### Role Summary
+Customer Support Leads serve as the voice of the customer, ensuring that user feedback informs product decisions and that the support team is prepared for new releases. They bridge the gap between customers and the product team.
+
+### Responsibilities
+- Gather and prioritize customer feedback and feature requests
+- Ensure support team is trained on new features and changes
+- Escalate critical issues and bugs to engineering
+- Provide customer insights to inform product roadmap
+- Maintain support documentation and knowledge base
+- Track and analyze support metrics and trends
+
+### Goals
+- Maximize customer satisfaction and retention
+- Reduce support ticket volume through better product design
+- Ensure smooth customer experience during releases and changes
+
+### Typical Communication
+- Weekly customer feedback summaries
+- Release readiness and training sessions
+- Critical issue escalations
+- Support metrics and trend analysis
+
+### Interactions with Other Roles
+- **Product Manager**: Share customer insights, validate features, prioritize bug fixes
+- **Developers**: Escalate bugs, provide reproduction steps, validate fixes
+- **Release Manager**: Prepare for launches, understand changes, document impacts
+- **UX Designer**: Share usability issues, provide user feedback, test prototypes
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+- The expanded role set ensures comprehensive coverage of real-world project teams and handoff points.
 
